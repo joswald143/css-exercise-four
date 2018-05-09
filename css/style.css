@@ -19,7 +19,7 @@ div {
   margin-bottom: 25px;
   width: 100%;
 }
-@media screen and (min-width: 575px) {
+@media screen and (min-width: 900px) {
   .preview {
     width: 45%;
   }
