@@ -33,16 +33,16 @@ h1 {
   font-size: 1.25em;
 }
 .baku {
-  background-image: url(/images/baku.jpg);
+  background-image: url("../images/baku.jpg");
 }
 .london {
-  background-image: url(/images/london.png);
+  background-image: url("../images/london.png");
 }
-.madrid{
-  background-image: url(/images/madrid.jpg);
+.madrid {
+  background-image: url("../images/madrid.jpg");
 }
-.rome{
-  background-image: url(/images/rome.jpg);
+.rome {
+  background-image: url("../images/rome.jpg");
 }
 @media screen and (min-width: 500px) {
   .preview {
