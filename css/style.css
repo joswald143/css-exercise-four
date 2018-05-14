@@ -18,9 +18,9 @@ h1 {
 .preview {
   height: 300px;
   width: 100%;
-  object-fit: fill;
   margin-bottom: 20px;
   float: left;
+  background-position: center;
 }
 .modernLuxury {
   padding-left: 25px;
@@ -49,6 +49,10 @@ h1 {
     width: 48%;
     margin: 1%
   }
-  .container {
+}
+@media screen and (min-width: 900px) {
+  .preview {
+    width: 23%;
+    margin: 1%
   }
 }
